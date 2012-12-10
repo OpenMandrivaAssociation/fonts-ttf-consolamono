@@ -39,3 +39,10 @@ ttmkfdir %{buildroot}%{_xfontdir}/TTF/consolamono -o %{buildroot}%{_xfontdir}/TT
 %verify(not mtime) %{_datadir}/fonts/TTF/consolamono/fonts.dir
 %{_xfontdir}/TTF/consolamono/fonts.scale
 %{_sysconfdir}/X11/fontpath.d/ttf-consolamono:pri=50
+
+
+%changelog
+* Wed Dec 14 2011 Dmitry Mikhirev <dmikhirev@mandriva.org> 20110922-1
++ Revision: 741114
+- imported package fonts-ttf-consolamono
+

@@ -3,7 +3,7 @@
 Summary:	Consola Mono Book typeface
 Name:		fonts-ttf-consolamono
 Version:	20110922
-Release:	1
+Release:	2
 License:	OFL
 Group:		System/Fonts/True type
 URL:		http://openfontlibrary.org/font/consolamono

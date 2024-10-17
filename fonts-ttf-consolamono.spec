@@ -6,7 +6,7 @@ Version:	20110922
 Release:	2
 License:	OFL
 Group:		System/Fonts/True type
-URL:		http://openfontlibrary.org/font/consolamono
+URL:		https://openfontlibrary.org/font/consolamono
 Source0:	%{pkgname}.zip
 BuildArch:	noarch
 BuildRequires:	freetype-tools
